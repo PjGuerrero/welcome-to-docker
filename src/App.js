@@ -52,6 +52,9 @@ const App = () => {
           </a>
         </div>
       </header>
+      <div>
+        Sample
+      </div>
     </div>
   );
 };
